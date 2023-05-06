@@ -1,0 +1,10 @@
+/* .outerDiv{
+    display: flex;
+    text-align: center;
+} */
+
+.spanDiv {
+    display: inline-block;
+    margin: 1rem;
+    /* vertical-align: middle; */
+}
